@@ -1,5 +1,12 @@
 # **Cereus & Limnic: Escape From Okinawa: Narrative OS (v0.1)**
 
+## 🎬 Animated Trailer
+
+![Animated trailer](assets/animated_logo.gif)
+
+[Watch full trailer on YouTube](https://www.youtube.com/embed/kV4Lb8tLdhY?si=4Z2DpFZsEt8CgiOR)
+
+
 **Welcome to one the first public examples of a *Narrative Operating System*: a book creation process designed, structured, and deployed like software.**
 
 This repository contains the modular story architecture behind ***Cereus & Limnic: Escape From Okinawa***, a near-future techno-espionage thriller set in Okinawa during escalating geopolitical tension.
