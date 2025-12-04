@@ -1,4 +1,4 @@
-# **Cereus & Limnic: Escape From Okinawa — Narrative OS (v0.1)**
+# **Cereus & Limnic: Escape From Okinawa: Narrative OS (v0.1)**
 
 **Welcome to one the first public examples of a *Narrative Operating System*: a book creation process designed, structured, and deployed like software.**
 
