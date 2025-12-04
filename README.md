@@ -96,6 +96,10 @@ This is an active, evolving project.
 This is the nature of treating fiction as software:
 **it lives, iterates, and improves.**
 
+Note: Some large manuscript files may not preview on GitHub due to size limits.  
+To view them, clone the repository or download the raw file.
+
+
 ---
 
 ## **Licensing**
