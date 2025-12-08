@@ -60,10 +60,10 @@ Here is the finalized Arc Outline.
   * Timeera and Zima assess each other—the soldier vs. the mercenary.  
 * **The End:** The respite is cut short. The water starts vibrating. Cadence has arrived.
 
-**Chapter 6: The Monument (Mini-Boss)**
+**Chapter 6: The Monument**
 
 * **POV:** Shade  
-* **Location:** The Cliffs overlooking the Yonaguni Monument (Underwater Ruins).  
+* **Location:** The Cliffs overlooking the Yonaguni Monument (Raised above the sea).  
 * **The Fight:** **Team vs. Cadence.**
 On Yonaguni, Cadence arrives. Scorch goes berserk. He and Shade fight Cadence together while Zima and Timeera stay hidden.
 
