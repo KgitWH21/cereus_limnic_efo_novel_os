@@ -104,20 +104,22 @@ Overexposure at max.
 ---
 
 **[0905 HOURS] - ANOMALY DETECTED**
-**SUBJECT:** SUN ROHAN HAVEN
+**SUBJECT:** ROHAN (SUN) HAVEN
 **EVENT:** SPATIAL DISPLACEMENT
 
 **LOG ENTRY:**
-The world didn't slow down. It ceased.
-Atmospheric pressure dropped instantly. Visual distortion confirmed: the waves around the monument were crushed flat by an invisible hand. The sky shifted to a spectrum of absolute lightlessness.
+The world exercised a condemnation of motion. Even in my exhausted condition I felt it.
+Instantly, atmospheric pressure dropped. Visual distortion confirmed: the waves around the monument were crushed flat by an invisible hand. The sky shifted to a spectrum of absolute lightlessness.
 
 **ARRIVAL:**
-Subject Sun did not approach. He occupied the space that had been empty a microsecond prior. Displacement complete.
+Sun didn’t  approach. He rose.
 
 **THREAT ASSESSMENT:**
-To classify Subject Sun as "powerful" is an error in scale. He is a singularity.
-**METAPHORICAL INDEX:** Subject carries the weight of a collapsing star in his chest. A density of presence so immense that light bends around his perimeter, seemingly terrified to touch his skin.
+To classify Subject Sun as "powerful" is an error in scale. He’s singularity in nature.
+**METAPHORICAL INDEX:** Sun carries the weight of a collapsing star in his chest. A density of presence so immense that light bends around his perimeter, seemingly terrified to touch his skin.
 **AUDITORY ANALYSIS:** Note that if Subject had spoken, the decibel level would have likely shattered the island's spine. His stillness strikes louder than the ocean.
+
+ARCHIVIST NOTE: This extreme hyperbole is uncharacteristic of Shade, who normally has a much more grounded report of the facts. The account is proof of the significant state of distress he must have been under when he wrote this.
 
 **IDENTIFICATION:**
 Visually matches Brother.
@@ -129,11 +131,6 @@ Psychological Profile: Cold Logic.
 **[0906 HOURS] - ENGAGEMENT**
 **ACTION:** OFFENSIVE DISCHARGE
 
-**TRANSCRIPT:**
-> **SUN:** "Rohan." (Speaker: Shade. Volume: Inaudible).
->
-> **SUN:** "Imperfection."
-
 **EVENT DESCRIPTION:**
 Subject Sun raised a hand. No gesture. No flair. Efficient movement.
 A beam of coherent light erupted. Target: The Monument.
@@ -142,22 +139,21 @@ Blast radius: Excessive.
 **CASUALTY REPORT:**
 *   **Scorch:** Blown back. Status: Disoriented.
 *   **Shade:** Thrown to knees. Status: Functional.
+*  **Cadence:** A red crater in the coral. Status: Liquified.
 *   **Zima:** **CRITICAL**.
 
 **INCIDENT ANALYSIS:**
-Zima stood her ground. Mistake.
-The edge of the blast impacted her position. No vocalization. Impact sound: Wet/Heavy. Subject Zima spun—physics akin to a ragdoll in a hurricane—and impacted the stone steps.
+Our enemy was defeated, but an ally took a hit. 
+I saw her, Zima, that innocent civilian stand her ground.
+The edge of the blast impacted her position. No vocalization. Impact sound: Heavy/Splotch. Zima spun— physics akin to a ragdoll in a hurricane— and impacted the stone steps.
 
 > **SCORCH:** "Zima!"
 
 **POST-ACTION OBSERVATION:**
-Sun lowered his hand. Turn rate was mechanical. He observed the casualty. Blood is staining the ancient stone darker.
+Sun lowered his hand. He stood on the flat top of the risen monument making waves. His head tilted toward the west in waiting.
 
-> **SUN:** "Collateral. Acceptable."
 
 **CONCLUSION:**
-The family unit is not merely broken. It is pulverized.
-I am looking at Scorch scrambling towards Zima. I am looking at Cadence laughing silently at the sky. I am looking at the brother who has become a god of destruction.
+The family unit was pulverized.
+Scorch scrambled toward Zima. Sun shined down, having become a god of destruction.
 
-**GAME STATE:**
-Checkmate.
