@@ -78,9 +78,7 @@ Scorch burns out and can fight no more. Shade takes on Cadence and Capybara alon
 * **The Insight:** She reviews the data spike. The battle with Cadence was the flare. They "Dared" too hard. The stealth is gone. The world knows where they are.
 
 **Chapter 7: The Wall**
-
-* **POV:** Timeera  
-* **Location:** The Western Coast (Facing Taiwan).  
+ 
 * **The Hope:** They prep the boat to make the final run to Taiwan (freedom).  
 * **The Despair:** The horizon lights up. It’s not the sun. It’s the combined US 7th Fleet and the PLAN (Chinese Navy).  
 * **The Realization:** The blockade isn't to keep people in; it's to keep *Gods* out. They are trapped.

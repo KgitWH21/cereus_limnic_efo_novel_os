@@ -68,3 +68,9 @@ His proxy-communication style reinforces this: he is always mediated, never full
 
 Node tie: N3 (Hive), N5 (Chimera), N7 (Immortality).
 
+## Scene Appearances
+
+| Scene Title | Role | Summary |
+| :---- | :---- | :---- |
+| **The Monument (Ch.6)** | **God of Destruction** | **Sun** arrived at the Yonaguni Monument with overwhelming, singular power—crushing the waves flat and bending light around him. He obliterated **Cadence** with a single beam of coherent light, inadvertently critically wounding **Zima** in the crossfire, then stood atop the Monument awaiting what comes next. |
+

@@ -84,6 +84,10 @@ Heads to Zamami Island to pursue the brothers.
 
 Timeera cons hers way onto a ferry to Zamami Island. She unmasks the teenage Bonta on the ship. He hides the fact that his sister’s been taken. They travel together to Zamami. 
 
+## The Monument (Ch.6)
+
+Timeera was in critical condition at the Monument confrontation—barely conscious, a dead weight against Shade's shoulder with fluid in her lungs, borrowing every step from a future she may not see. 
+
 🔮 Endgame Options (Open)  
 Judas Turn: Betrays the brothers, but with emotional cost.
 

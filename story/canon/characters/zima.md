@@ -59,4 +59,6 @@ STORY HOOK:
 A impressionistic ill-tempered customer begins the character's journey  
 
 RECENT EVENTS:
-Witnessed the rising of the Yonaguni Monument alongside Scorch, with whom she has formed a romantic connection.  
+Witnessed the rising of the Yonaguni Monument alongside Scorch, with whom she has formed a romantic connection.
+
+**Chapter 6:** Critically wounded at the Monument when caught in the edge of **Sun's** devastating light beam—spun like a ragdoll and impacted the stone steps. Status: **CRITICAL**.  

@@ -41,6 +41,9 @@
 *   **Status:** On Yonaguni with Scorch.
 *   **Action:** Witnessed the rising of the Monument. Formed a romantic bond with Scorch.
 
+### Chapter 6 Summary
+*   **The Monument:** Shade, Scorch, and Zima confronted Cadence at the risen Monument; Sun arrived and obliterated Cadence with a devastating light beam, critically wounding Zima in the crossfire.
+
 ## Lore
 ### The Rot / The Sickness
 *   **Nature:** Not radiation or bio-agent. It "rewrites" carbon to make hosts compatible with the water/deep.

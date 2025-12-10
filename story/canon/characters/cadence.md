@@ -90,3 +90,13 @@ The **"Sorrow-Man"** is a **rogue AI sub-routine** in her cochlear implant, a re
 Her companion, **Unit 734 (Panopticon)**, is a **genetically modified capybara** originally intended for minefield detection. He follows her because she feeds him the specific radiation he needs to survive. He is the only thing left that doesn't talk, doesn't judge, and doesn't die.
 
 She fights now for two reasons: **Revenge** for the friends she couldn't save, and to find the **"Conductor"**—the person or thing at the center of this conflict. She believes if she kills them, the music will finally stop.
+
+---
+
+## Chapter 6: Death at the Monument
+
+**STATUS: DECEASED**
+
+Cadence confronted **Shade**, **Scorch**, **Zima**, and the dying **Timeera** at the risen Yonaguni Monument. She spoke of the "music" and called the Monument a *milagre*—a miracle—and a "fresh grave." Her Capybara companion (**Unit 734 / Panopticon**) was shot down by Shade's **Moon Shot**. She retaliated with her sonic attack, inducing violent nausea, but was struck by the combined **ROCK POP** dual Dare from Shade and Scorch.
+
+Before she could recover, **Sun** arrived. With a single efficient gesture, he fired a beam of coherent light that obliterated Cadence, leaving only "a red crater in the coral." The music finally stopped—for her.
