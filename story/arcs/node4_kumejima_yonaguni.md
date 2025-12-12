@@ -87,8 +87,7 @@ Scorch burns out and can fight no more. Shade takes on Cadence and Capybara alon
 
 * **POV:** Shade  
 * **Location:** The Beach.  
-* **The Arrival:** Sun emerges from the surf. He tried to swim/jump to Taiwan but was turned back by the barrage. He is starving, desperate, and looks skeletal.  
-* **The Goal:** Sun demands their boat (futile) and Scorch’s essence (to heal himself).
+* **The Arrival:** Sun destroys the combined US/Chinese flotilla with blazing ferocity, once again borrowing the power of the brothers.
 
 **Chapter 9: Scorched Earth**
 
