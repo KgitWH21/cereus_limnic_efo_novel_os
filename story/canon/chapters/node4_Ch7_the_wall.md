@@ -156,17 +156,15 @@ Shade's helmet camera pans toward the treeline. A figure emerges—an old man wi
 
 Shade turns toward the water.
 
-The horizon is lit.
+The horizon is burgeoning with light.
 
-Not by the sun—the sun is behind them, low and red. This light comes from the west. A line of cold white illumination stretching across the curve of the earth.
+Not by the distant sun,low and red. It's a line of cold white illumination stretching across the curve of the earth.
 
 Ships.
 
 Looks like a flotilla of 3 to 5 vessels.
 
-The silhouettes are unmistakable: the angular prowl of American destroyers. The sloped, aggressive hulls of PLAN frigates. They shouldn't be side by side. They shouldn't even be in the same theater without shooting at each other.
-
-But there they are. They were united for the first time against one enemy.
+"Unmistakable is the word that comes to mind, the shape of the hulls: angular prowls of American destroyers approaching. The equally sloped, aggressive hulls of PLAN frigates. They shouldn't be side by side but they are. United for the first time against one enemy.
 
 ---
 
@@ -178,23 +176,29 @@ The official story is "containment of biological hazard."
 
 But I know what they were really containing.
 
-The signal spike from the Cadence engagement was detected as far as Guam. Every satellite in the region registered the same anomaly: a burst of genetic resonance consistent with a *Triple Dare* attempt.
+Word of the signal spike from the Cadence engagement reached as far as Guam. Every satellite in the region registered the same anomaly: a burst of energy consistent with a *Triple Dare* attempt.
 
-They weren't blockading an island.
+This was no standard truce, however fragile. It was a shared sealing of a mutual menace.
 
-They were quarantining gods.
+And by the time the brothers realized this, escape was no longer an option.
 
 ---
 
 **TRANSCRIPT (CONTINUED):**
 
+> **SCORCH:** Bro this is bad.
+>
 > **SHADE:** How long have they been there?
 >
-> **HIGA:** Since morning. They came fast. Like they knew.
+> **HIGA:** Since morning. They came fast. Like they know.
 >
 > **SCORCH:** [Voice raw.] So what—we're just stuck here? That's it?
 >
-> **HIGA:** [Long pause.] The boats cannot pass. Even fishing boats. They fire on anything that moves.
+> **HIGA:** [Long pause.] Boats cannot pass. Even fishing boats. If try, they attack maybe.
+>
+> **SCORCH:** [Voice choked.] Fuck. And this is all cuza him.
+
+He looked toward the top of the Monument. Sun was waiting.
 
 ---
 
@@ -202,11 +206,9 @@ The phone buzzes again.
 
 I stare at it.
 
-For a moment, I consider answering. I know who it is. I've known for weeks. Ever since I started tracing the genetic audit trails, the same name kept appearing in the margins. The father of my child. The man my own father *selected* for me.
+For a moment, I consider answering. Whoever it is really wants to talk. Yet now isn't the time.
 
-But he can wait.
-
-The dead are more pressing company.
+The dead demand answers.
 
 ---
 
@@ -224,7 +226,7 @@ What do you do when you realize the sky has walls?
 
 **[0923 HOURS] — DEANIMATION**
 
-The footage shows nothing for the next ninety seconds. Just stillness. The waves have stopped entirely now. Even the wind seems to be holding its breath.
+The footage shows nothing for the next ninety seconds. Just stillness. The waves have stopped entirely now. Even the wind seems to be holding.
 
 No one moves.
 
@@ -244,24 +246,4 @@ There would be no more running.
 
 Only reckoning.
 
----
 
-**—END ENTRY—**
-
----
-
-The phone buzzes a fifth time.
-
-I reach for it, then stop.
-
-Whoever you are. Whatever you need to tell me about my father, about the child I'm carrying, about the design that brought us together—
-
-You'll have to wait.
-
-I'm not done with the dead yet.
-
----
-
-## CONTINUITY HOOK
-
-Zima's fate remains ambiguous. Higa has arrived but offers no solution. The naval blockade is established. The next chapter must address how the group attempts to escape or confront their entrapment.
