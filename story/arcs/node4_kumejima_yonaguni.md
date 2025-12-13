@@ -83,7 +83,7 @@ Scorch burns out and can fight no more. Shade takes on Cadence and Capybara alon
 * **The Despair:** The horizon lights up. It’s not the sun. It’s the combined US 7th Fleet and the PLAN (Chinese Navy).  
 * **The Realization:** The blockade isn't to keep people in; it's to keep *Gods* out. They are trapped.
 
-**Chapter 8: The Starving God**
+**Chapter 8: Flotilla Destruction**
 
 * **POV:** Shade  
 * **Location:** The Beach.  

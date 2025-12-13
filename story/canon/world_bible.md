@@ -44,6 +44,12 @@
 ### Chapter 6 Summary
 *   **The Monument:** Shade, Scorch, and Zima confronted Cadence at the risen Monument; Sun arrived and obliterated Cadence with a devastating light beam, critically wounding Zima in the crossfire.
 
+### Chapter 7 Summary
+*   **The Wall:** Archivist Jinhua Ma reviewed footage of the Monument aftermath, revealing that a joint US-China naval blockade has sealed Yonaguni—trapping the Haven brothers, the dying Zima, and Sun under global surveillance with no possibility of escape to Taiwan.
+
+### Chapter 8 Summary
+*   **Flotilla Destruction:** Sun destroyed the joint US/China naval blockade singlehandedly, bisecting destroyers and frigates with forked light beams while walking on water—an act witnessed by Shade with growing horror and the dawning realization that he may need to kill his own brother.
+
 ## Lore
 ### The Rot / The Sickness
 *   **Nature:** Not radiation or bio-agent. It "rewrites" carbon to make hosts compatible with the water/deep.

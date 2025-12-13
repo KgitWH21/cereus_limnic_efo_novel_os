@@ -62,3 +62,5 @@ RECENT EVENTS:
 Witnessed the rising of the Yonaguni Monument alongside Scorch, with whom she has formed a romantic connection.
 
 **Chapter 6:** Critically wounded at the Monument when caught in the edge of **Sun's** devastating light beam—spun like a ragdoll and impacted the stone steps. Status: **CRITICAL**.  
+
+**Chapter 7:** Zima stopped breathing and became unresponsive as **Scorch** desperately tried to save her, having earlier called **Higa** to bring a boat before the battle—her final conscious act before deanimation.  

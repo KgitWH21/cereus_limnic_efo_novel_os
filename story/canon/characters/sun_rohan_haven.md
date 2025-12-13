@@ -73,4 +73,5 @@ Node tie: N3 (Hive), N5 (Chimera), N7 (Immortality).
 | Scene Title | Role | Summary |
 | :---- | :---- | :---- |
 | **The Monument (Ch.6)** | **God of Destruction** | **Sun** arrived at the Yonaguni Monument with overwhelming, singular power—crushing the waves flat and bending light around him. He obliterated **Cadence** with a single beam of coherent light, inadvertently critically wounding **Zima** in the crossfire, then stood atop the Monument awaiting what comes next. |
+| **Flotilla Destruction (Ch.8)** | **Apocalyptic Force** | **Sun** destroyed the joint US/China naval blockade singlehandedly, bisecting destroyers and frigates with forked light beams while walking on water—an act of devastation that forced **Shade** to contemplate fratricide as the only remaining option. |
 

@@ -97,3 +97,9 @@ Project: [C\&L: EFO TB](https://docs.google.com/document/u/1/d/1YeXlIMS3smOY8E_g
 
 * **Memory as wound:** History refuses to close, festering through her notes.
 
+---
+
+## **Chapter Appearances (Type B)**
+
+**Chapter 7 (The Wall):** Jinhua reviewed footage of the Yonaguni aftermath, documenting Scorch's anguish over Zima and the revelation of the joint US-China naval blockade—all while ignoring persistent phone calls from the father of her child.
+

@@ -80,4 +80,5 @@ Node tie: N1–2 (voice and body control), N4 (memory), N6 (alteration).
 | **Ferry Drift** |  | **Subject of Discussion** 2727 | In an encrypted call to operative K-97 (**Timeera Koi**), **Scorch** is mentioned by the handler as **"sick, possibly compromised"** and a liability that may require containment or termination28282828. |  |
 | **The Monument Rises** | | **Lover / Witness** | | **Scorch** spends time on Yonaguni with **Zima**, revealing his feelings of abandonment by his brothers. He witnesses the **Yonaguni Monument** rising from the sea, realizing the war has found them. |
 | **The Monument (Ch.6)** | | **Combatant / Protector** | | **Scorch** fought **Cadence** alongside **Shade**, vomited from her sonic attack, and executed the **ROCK POP** dual Dare. After **Sun** arrived and obliterated Cadence, Scorch was blown back but scrambled to help **Zima**, who was critically wounded by the edge of the blast. |
+| **The Wall (Ch.7)** | | **Grieving Protector** | | **Scorch** desperately tried to save the critically wounded **Zima**, weeping over her unresponsive body as **Higa** arrived to reveal the naval blockade had trapped them all on Yonaguni. |
 
