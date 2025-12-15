@@ -1,22 +1,5 @@
 # Chapter 8: Flotilla Destruction
 
----
-
-## METADATA
-
-**POV Character:** Shade (Key Haven)  
-**Scene Goal:** Show Sun's apocalyptic destruction of the US/China flotilla through Shade's horrified witness; establish Shade's crisis about potentially having to stop his brother  
-**Emotional Pulse:** Dread, horror, grief, moral collapse  
-**Literary Device Used:** Hypotaxis (complex subordinate clauses emphasizing the overwhelming cascade of events)  
-**Random Word Used:** Physiokinetic (invented: physical movement connected to psychological state)  
-**Starting State → Ending State:** Watching helplessly → Considering fratricide as the only option  
-**Final Word Count:** ~900
-
----
-
-## CHAPTER TEXT
-
----
 
 **SHADE'S JOURNAL — YONAGUNI, NODE 4**  
 **ENTRY:** [TIMESTAMP CORRUPTED]  
@@ -24,97 +7,76 @@
 
 ---
 
-My liver is the first organ to know something is wrong.
+We had no idea we were about to witness a heinous war crime. A moment that makes you complicit for merely watching, no matter when or how it happens.
 
-Not my brain. Not my heart. The liver—the organ that filters toxins, that processes bile, that takes the poison and makes it survivable. It spasms before I understand what I'm seeing. Because when horror is too large for cognition, the body knows before the mind can catch up.
+Liver delivers a quiver in my gut. I swear I felt it. The surging acidic bile, smelling of soggy trash bag in the heat, squirting to where it didn't belong. When Sun rose in the air that was the sensation.
 
-Sun is rising.
+Scorch hit a knee in the sand. I doubled over holding my side in nut-kick pain. Both of us squealed like feathered biddies, producing oversized eggs as he drew on the Janus gene within us. 
 
-Not metaphor. He's lifting off the Monument's crown, his silhouette bent against the gray morning like a figure cut from negative space. His arms are at his sides, which means he's pulling from us—from me and Lock—without asking.
+Sky darkened beneath sunset as he lifted off the Monument’s crown. For a second, he was a silhouette cut out against the backdrop— a figure of negative space. 
 
-I can feel it. The Dare-link burns behind my eyeballs, a migraine that tastes of copper and ozone.
-
+I felt it. A triple Dare-link strained to near breaking. No damns given for maximum exposure for what he was about to do. 
 ---
 
-The flotilla stretches across the horizon.
+The flotilla stretched across the horizon. They blared horns, flashed lights, and waved flags of warning.
 
-American destroyers. PLAN frigates. They've formed a crescent; their coordination is terrifying, because these two navies have been trading fire for months, yet here they stand united, weapons trained not on each other but on an island the size of a township, because they're more afraid of us than they are of each other.
+All useless gestures.
 
-I should feel proud. I don't.
+American destroyers. PLAN frigates. They'd formed a formerly horrific crescent, at least to a smaller vessel. But they weren't prepared for the power of a single mission-obsessed man.
 
-Because my brother—my eldest brother, the one who taught me how to tie fishing knots and read star charts—is ascending toward them with the physicality of a comet, and the heat spilling off him is so intense that the air itself is contracting, which causes the temperature on the beach to plummet even as the sky goes white, which makes me understand, for the first time since this war started, that there might be no coming back from this.
+“What does it mean to run, fly, or take a horse and buggy to your destination?”
 
+He'd asked me that once, my elder brother.
+
+I didn't know what it meant. He gave an explanation that went over my head, but said it had something to do with how you transmitted ideas. The method of movement describes the style of transfer.
+
+What of flight then?
+
+In my view it disrespects the receiver. A shout in the library, I think, because you force yourself into view of others, invading normally undisrupted air.
+
+I thought of that as I watched him five with comet physicality at the cluster of floating targets.
 ---
 
 **[THE FIRST STRIKE]**
 
-The flagship goes first.
+The flagship went first.
 
-It's an American destroyer—Arleigh Burke-class, the kind I studied in war college—and I watch Sun's light carve through its hull like a surgeon's blade parting tissue. The steel doesn't resist. It separates. The ship's midsection drops into the sea while the bow and stern rise in opposite directions, two headstones tipping toward each other before the water swallows both.
+It's an American destroyer— Arleigh Burke-class, the kind I studied in war college— and I watch Sun's light carve through its hull like a surgeon's blade parting tissue. 
 
-No explosion. Too fast for that.
+The steel separated. Two halves of hull dropped into the sea while the bow and stern rose in opposite directions, two headstones tipping toward each other before the water swallowed both.
 
-Just a bisection so clean that my liver cramps again, forcing bile up into my throat.
+I could only imagine Pearl Harbor chaos aboard. 
+
+The bisection was so clean that my liver cramped again. Bile watered my throat.
 
 ---
 
 **[THE SECOND STRIKE]**
 
-He hits two PLAN frigates simultaneously.
+He hit two PLAN frigates simultaneously. At least that's how it seemed. I saw the blast before I smelled the smoky air.
 
-The beams fork—I didn't know he could do that—and the ships become physiokinetic expressions of their own destruction, their superstructures folding inward as if genuflecting before the god who unmakes them. Men are visible now: specks against the fire, some jumping, some already falling. I can't hear them. The distance is too great. But I know what a falling man looks like from a hundred meters, and I know what it looks like from three kilometers, and both images are burned into the same place behind my eyes now.
+The beams forked and the ships menjadi (became) physiokinetic expressions of their own destruction; their superstructures crunched inward in humbled genuflection before this higher being reinstating a new era of peonagentic suffering not seen in centuries. 
 
-Lock is shouting something. I can't process it.
+Sailors sailed from the sides of the ship to chance a potentially bone-shattering dive. The lucky ones weren't burning. 
 
-All I can see is Sun.
+Lock shouted something. I can't remember what it was.
+
+All I remember is fire blending with the colors of dusk.
 
 ---
 
 **[THE THIRD STRIKE]**
 
-Three more.
+One ship managed to get a missile off.
 
-He's not slowing.
+An American frigate fired a Tomahawk, maybe— but Sun evaded it then streaked down to exact revenge on the bridge. Through binoculars, I only saw red on the windows when he was done. 
 
-A PLAN cruiser tries to turn, engines throwing up a wall of foam, but the beam catches its stern and the propulsion system vanishes in a geyser of steam and shrapnel. An American frigate fires a missile—Tomahawk, maybe—and Sun doesn't even move. The missile enters his light-field and detonates prematurely, the explosion absorbed into something I can't name.
+Part of me didn’t want to accept the brutality. That he had lost so much faith in humanity and transformed into neutral force of nature to rain over them all while soaked in cynicism? Lock had a point, was it all cuz of us?
 
-He's walking on air. Stepping from one kill to the next like he's pacing a room.
+Every Dare, while providing immeasurable power, drained us of the ability for eventual re-integration. For the first time, I thought I might have to confront, even kill my brother.
 
-And the bile is rising again, because my body is processing what my brain refuses to accept: that this is my brother, that I helped make this, that every Dare we shared fed into the engine now reducing a combined fleet to scrap and corpses.
+To let him continue that conciliar destruction is impossible. We have to make this right.
 
----
+Without words, following his rampage, he returned to the top of the Monument as he viewed scraps and corpses leaving daylight for the last time.
 
-**[STILLNESS]**
-
-He lands on the water.
-
-Stands there. Boots on the surface like it's solid ground.
-
-The flotilla—what remains—is retreating. Smoke pours from half a dozen wrecks. Oil spreads in iridescent sheets. Somewhere, ammunition is cooking off in slow, irregular bursts.
-
-Sun turns toward the island.
-
-Toward me.
-
-And I think: *If he comes for Zima—if he comes for Lock—what will I do?*
-
-The answer arrives before I want it.
-
-I think: *I might have to kill him.*
-
-Not want to. *Have to.*
-
-Because a liver can only filter so much before the poison becomes the blood, before the thing that was supposed to protect you becomes the thing that kills you, and I am looking at a man I love who has become something that cannot be allowed to continue.
-
----
-
-The journal entry ends here.
-
-I don't know what happens next.
-
-But I know the shape of it.
-
----
-
-**CONTINUITY HOOK:**  
-Shade must now reckon with the possibility that stopping Sun may require an act he cannot undo—and that Scorch may not survive the fallout.
+Scorch was already strides ahead rushing up to meet him head on.
