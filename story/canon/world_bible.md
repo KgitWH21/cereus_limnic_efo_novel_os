@@ -50,6 +50,9 @@
 ### Chapter 8 Summary
 *   **Flotilla Destruction:** Sun destroyed the joint US/China naval blockade singlehandedly, bisecting destroyers and frigates with forked light beams while walking on water—an act witnessed by Shade with growing horror and the dawning realization that he may need to kill his own brother.
 
+### Chapter 9 Summary
+*   **Scorch vs. Sun:** Scorch and Sun clash at the Yonaguni Monument; Sun warns Scorch to stop his interference before both are swept away as the pyramid begins sinking under the force of a massive, unknown impact.
+
 ## Lore
 ### The Rot / The Sickness
 *   **Nature:** Not radiation or bio-agent. It "rewrites" carbon to make hosts compatible with the water/deep.
