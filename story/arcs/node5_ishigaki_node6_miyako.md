@@ -2,7 +2,7 @@ This is the definitive structure for **Nodes 5 & 6: The Shattered Chain**. This 
 
 ### **NODES 5 & 6: THE SHATTERED CHAIN (ARC OUTLINE)**
 
-**Interlude: The Echoing Call**
+**Interlude: The Telpher Trace**
 
 * **POV:** Jinhua Ma
 * **Location:** 2076 (Archivist's Office)
