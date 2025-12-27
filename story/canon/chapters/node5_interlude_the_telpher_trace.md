@@ -1,36 +1,50 @@
-# Metadata
-- **POV Character:** Jinhua Ma
-- **Scene Goal:** Reflect on the conversation with Zane and her child's lineage; explore the weight of her father’s secrets.
-- **Emotional Pulse:** Resentful, watched, cold.
-- **Literary Device:** Symbolic object (the telpher).
-- **Random Word Used:** telpher
-- **Starting State → Ending State Summary:** Clinical detachment → Paranoid realization of being watched and the burden of her child's "hiding sources."
-- **Final Word Count:** [To be calculated]
+“I want to slow down and spend more time with you, to get to know you. I promise I will.”
 
----
+Ultimately this was a promise he wouldn’t keep. And there I was sitting on the phone with him, with the record of Okinawa fuming around me. Surrounding any form of mental escape from its influence from the past to this future… my future.
 
-The record never coughs. It never pauses to search for a word in a language it barely speaks. It doesn't have a raspy, nicotine-stained delivery that makes the air in my office feel thick with ghosts.
+“Jinhua, are you still there?”
 
-Zane does.
+“Yes Zane, I’m here.”
 
-I sat in the dark of the archives for twenty minutes after he disconnected, the heavy stillness of 2076 pressing against my eardrums like a physical weight. On the call, he had been a torrential downpour of sound—multilingual slips of Australian slang, fragments of Mandarin, and that irritating, husky laugh that always sounded like he was stealing a joke from someone else. I said exactly three words: "I'm still here."
+“What’s on your mind? It’s not like you to be distracted so much.”
 
-He spoke for forty minutes about the child. About the "vibe" of the mining towns he’s drifting through. About the possibility of a meeting that will never happen.
+He used to wear a jacket with a golden revers on the few occasions we went out. On the third time I asked him why he wore such a flashy thing. “It’s my way of being creative. Just a small thing. Y’know when you do boring work like work in an office, donning your suit and tie, it chokes off your specialness. Besides, creating a new thing is a higher form of communicating, than just stating facts.”
 
-I looked down at the physical file on my desk—the one my father, Li Ma, spent forty years trying to scrub from the systemic memory of the Okinawa conflict. The paper was yellowed, the edges brittle, but the data was still a live wire. 
+I’d smiled at him at that line. I even felt a tug of love below my navel for him. That led to our first time together. One of three. The only one when biological demand took control over logical reason.
 
-In the corner of the room, the automated **telpher** system vibrated—a miniature cableway designed to whisk physical documents across the facility. It moved with a mechanical precision that Zane never possessed. Zane was a vanishing act, a biological variable that was supposed to remain a ghost. Our brief relationship hadn't ended with a bang or even a sigh; it had simply... ceased. One day the carpool didn't arrive. One day the viability tests were complete.
+“Yeah, sorry. Just been working a lot lately.”
 
-A trace of something—not love, but a dull, phantom vibration—stirred in my chest. I suppressed it. That feeling was just another data entry, a vestigial response to a man who was wealthy by accident and boring on purpose.
+“I see… “
 
-I thought of my daughter. Her lineage was a complex weave of things extracted and things hidden. I looked at the marginalia I’d been obsessively smoothing with my thumb. Derek Sivers, that minimalist philosopher, had written it best: "Most creations are new combinations of existing ideas. Originality just means hiding your sources."
+These silences bring in awareness of noises: whirring air condition, a slosh of digestive activity, lights buzzing like bugs; I wish I had more to say to mask it all.
 
-I wondered if my father had felt this same tightening in his throat when he looked at me. Was I an original creation, or just a successful attempt at hiding the sources of my own digigenomic lineage? My child would eventually ask where she came from. I would have to be the one to decide which sources to bury.
+“Still enveloped in the file are you?”
 
-The back of my neck prickled. The sensation of being watched wasn't new in the archives, but tonight it felt targeted, as if the very air was recording my hesitation. I reached out and tapped the telpher’s control panel, sending the brittle file back into the dark stacks where it belonged. 
+“...”
 
-The record remained mute. But the stillness wasn't empty anymore. It was loud with everything I wasn't allowed to say to a man who still didn't understand that he was already a footnote.
+“I'll take that as a yes. I can help—”
 
----
+“No. I don't need it.”
 
-**One-Sentence Continuity Hook:** Jinhua’s paranoia about being watched suggests a breach in the archive’s security or a new interest from the handlers.
+“I… understand.” He cleared his throat for no reason other than to add another sound to my ear. It became warmer and I could feel the strain of my bladder commanding me to end the call.
+
+“I'm in the States. Was hoping I could stop by to visit.”
+
+“Why?”
+
+“I have something important to give you.”
+
+Like a quick thumb swipe of an old smartphone, I ran over the possible list of things he could have that I'd want at this point. Upon first glance, none seemed appealing.
+
+“Whatever it is, I'm not interested.”
+
+“I think you will be.”
+
+“What is it? Tell me.”
+
+The files scrunched in as if eavesdropping.
+
+“I'll have to show it to you in person. It's about your father's death.”
+
+I ware’d no effort in refusal.
+
