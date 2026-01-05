@@ -1,68 +1,123 @@
-# Metadata
-- **POV Character**: Timeera Koi (K-97)
-- **Scene Goal**: Re-establish physical stability through the DNA rift; reveal the cultist escape; escalate the intimate tension between Timeera and Shade as a desperate act of cohesion.
-- **Emotional Pulse**: Fragile Cohesion.
-- **Literary Device**: Fragmentation.
-- **Random Word**: Sotto voce.
-- **Starting State**: Comatose/Fragmented.
-- **Ending State**: Entangled/Coalesced against the nuclear horizon.
-- **Final Word Count**: [~950 words]
+Gray and freezing described the environment, but I had the first sense of warm stability I’d felt in a long time.
 
-# Chapter 1: The Mountain Hideaway
+It was as if time had reconstructed itself back to the beginning of the war, with fancy corner quoins to reinforce the secure bricks.
 
-Gray.
-Cold.
-The ceiling was a rough-cut patchwork of timber and packed earth. It looked like the underside of a shallow grave. Ishigaki mountain dirt. I could smell the dampness, the tectonic weight of the island pressing down on the safehouse. 
+“How did I?”
 
-A high-frequency whine bored into my ear canal. I tried to swallow, but my throat was a desert. One eyelid was taped shut with dried salt. I focused the other one on the whine. 
-It was the portable generator. A metal box in the corner, straining to keep the air cycling and the medical rack alive. 
+I remember staying on my back and giving myself a moment to scan my surroundings. This was an earthy place, made in a hurry, as if some previously occupying force worked to avoid fiery bombardment from above.
 
-"Don't," a voice said. 
-The word came from the shadows. Shade. 
-He was perched on a plastic crate, hunched forward like a gargoyle. He didn't look like a hero. He looked like a man who’d spent forty-eight hours dragging a corpse through the jungle and had finally run out of places to hide it.
+I could smell the dampness. Drink the mist of it. My first impression was it was mountain air: the kind that’s good for the skin and makes your heart pound harder, at first. 
 
-"Where... are we?" The question felt like it was made of glass and broken teeth.
-"Takatsuki perimeter. We’ve been underground for two days. You stopped breathing twice during the descent."
-Two days. The Monument. The blue-white blast of Sun’s fury that had turned the Yonaguni pyramid into a negative image. I remember the water—black, freezing, and tasting of old batteries.
+Throat dry, very hungry, I sat up and saw him. “Morning, what’s a girl gotta do to get some water around here?”
 
-I looked at my arm. A plastic tube ran from an IV bag into my forearm. The liquid inside was a thick, sickly amber. It looked like distilled sunset.
-"What am I eating, Key?"
-"D-Graft," Shade said. He didn't look at me. He looked at the floor, his fingers tracing the rim of a combat vest. "Scorch's blood. I scraped enough off my gear to refine a sample before the cells turned. It's the only reason your organs haven't liquefied yet."
-I looked at the tube. Scorch. The wildfire kid. He’d let himself be used as a surrogate liver while his world burned.
+Shade rubbed his eyes hard, set down his rifle, and brought a canteen over. There was a butt imprint in the soft dirt at the entrance that led out into the mist. We could have been kilometers high, I thought, but immediately dismissed it as stupid.
+I drained the water in loud gulps.
 
-"And the pristine one?" I rasped. "The Golden Child? Didn't he have any holy water to spare?"
-Shade’s jaw didn't just tighten; it seemed to lock. "Sun stayed on Miyako. He said the unit's DNA priority was for soldiers, not for... leaked assets. He's gone, Timeera. His beacon hit the Miyako node once before the blackout. He didn't look back. He didn't even ask if you were alive."
+"Don't drink so fast." He watched me while water ran down my chin. When I started hacking water out of my windpipe he whapped my back repeatedly. Did this man not know how to be gentle?
 
-The Shattered Chain. I felt a laugh ripple in my chest, but it hit the fluid in my lungs and died in a wet cough.
-"Typical," I said, my voice a dry scraping sound. "I didn't sign up to be the family's spare parts bin, Key. If I wanted to be a mother to you lot, I'd have kept the receipts."
-Shade didn't move. He reached out to check the flow rate on the IV, his hand hovering an inch from my shoulder. He stopped. He knew the touch was a trigger. He knew it made me feel like I was being skinned alive.
+“Ah… uh..whew… thanks for the slaps.”
 
-"How did we get off the pyramid?" I asked, forcing him to move his hand back. "You didn't swim us to Ishigaki."
-"The cultists," Shade said, his voice flat and clinical. "Those two women who survived Sun’s bloodbath on Iheya. They were still hanging around the shoreline when the Monument sank. They dragged us onto a fishing scow. They didn't ask for money or names—they just stared at the horizon like they were waiting for the sky to fall. We slipped through the first wave of the blockade before the US sensors could calibrate for low-profile wood."
+“Yeah.” He nodded and went back to what I assumed was his post.
 
-He stood up, tapping a cracked tablet screen. Gray-scale feeds flickered. Shadows of ships. US and China, a cage of steel tightening around the main island. 
-"Kadena is the target. They’re moving the tac-nukes into position. A 'clean sweep' of the remaining nodes. We're trapped in a dirt hole on a rock, and the clock is at zero."
+While his position cemented again, I checked myself. No major injuries, still in the same bitter-sweat clothes I’d been wearing for days (I REALLY could’ve used a shower), but more importantly: there was clear thinking. And that was the sign the miserable pain, the kind that prevents you from focusing on anything else, was gone, at least for the time being. For the first time in days, I felt life again in all its promise and ugliness. I really needed to pee.
 
-He was crumbling. I could see the Peacemaker falling out of his face. He always wanted to keep things whole, but there were no pieces left to fit.
-I looked at the amber liquid in the tube. It felt like a theft. My whole life was a series of stolen identities, and now I was stealing a kid’s blood to keep from evaporating.
+“Uh are there any… facilities for a girl to get fresh?” For some reason I got nervous asking him.
 
-"Key," I said.
-He looked up. 
-"I'm falling apart. This DNA... it’s foreign stuff. I can feel the graft fighting my marrow. I need a different kind of cohesion. Something that doesn't come out of a plastic bag."
+Shade pointed outside. “I have a few wipes left. You can have em’.” 
 
-I shifted on the mat. My skin screamed at the friction of the synthetic fabric. I reached out, my fingers trembling, and caught the edge of his sleeve.
-"Timeera, you're not stable," he said. The Peacemaker was trying to find a rule to follow. He tried to pull away, his eyes wide, looking for an exit in the dirt walls. "You need the graft to settle. You need to rest."
-"To hell with the graft," I snapped. I felt the nausea, the old recoil of the touch, but the biological demand was a roar. The world was ending, and I was fragmented. "I'm not asking for a medical opinion. I'm asking you to hold the knife before I drop it."
+I stood. A little wobbly at first and my vision dimmed, but it held. “Sharing your last wipes? I feel incredibly special.”
 
-He froze. In the *sotto voce* thrum of the generator, the air in the safehouse felt metallic.
-"We shouldn't," he muttered. "Not like this. Not while—"
-"Shade." I pulled on his sleeve. It wasn't love. It was a grab for a life raft. "I'm shattered into a thousand pieces. If I'm going to burn when the nukes hit Kadena, I want to feel like a person for five minutes. Is that too much ambiguity for you to handle?"
+He tossed the pack my way and I surprised myself when I caught it. I heard him exhale an utterance, but I couldn’t tell if it was a laugh or a “whatever”. In my antsy state, I decided not to think about it anymore, then I went out to freshen up as much as the field would allow.
 
-He looked at my hand on his sleeve. His resistance didn't break; it just finally ran out of energy. He sighed, a long, hollow sound of surrender, and knelt on the mat. 
-He didn't touch me yet. He waited. 
-"You hate this," he whispered.
-"I hate everything," I said. I leaned into him, my skin crawling, the touch aversion a live wire between us. "But I hate the silence more. Now shut up and hold me together."
-He finally put his arms around me. He was warm, solid—a stability matrix I didn't deserve. As he pulled me in, the "Project" finally went quiet. Outside, the world was breaking, but here, in the dark, we were the only parts that still fit.
+When I returned, I was half a new woman with anxious pre-battle nerves rolling through me. I shoved my hands into my pockets to prevent them from giving the jitters away.
 
----
-**Continuity Hook**: Timeera has successfully "grafted" herself to Shade emotionally and physically, ensuring her survival through his protection even as the nuclear threat looms at Kadena.
+Shade was positioned at the entrance to the safehole, hunched forward like a gargoyle. He looked my way, then held his eyes there in anticipation of my question.
+
+“Gee... well, where should I start?”
+
+“What do you wanna know?”
+
+“Where the hell we are? How’d I, you, me, us get here, what happened to your brothers, the island, the war; how and why do I not feel like everything hurts and feel, I feel… good.”
+
+He raised up from his crouched position to come closer. About an arm’s length away, vision drilling through my skull, he said, “This is Ishigaki. Two ladies from the Chumi no Umi group ferried us out before the Monument went back under, Yonaguni is another battlefield now; Chinese sent an even larger naval force and took it in a few hours. Anything else?” His arms were flat at his sides, the rifle was pointed out of fighting angle, dangling lazily. His posture was of a man sentenced to a South African necklace: the tire was already oiled up and within view. Only thing left was the mechanic and the match.
+
+I tried to remember not to let my impatience show, for the sake of his testicle sensitive male ego. Like talking to a grown dear that might buck and charge, lower your voice and the threat at the same time. “And?” 
+
+“And what?”
+
+“You completely skipped the part about your brothers.”
+
+He turned away. There was a twitching in his hands first, then a neck roll, throat clear, a rupture in the mist but not enough to lift it. We couldn’t see beyond ten feet out there. Even with uniform, smeared with blood, mud of opponents natural, unnatural, and unnamed, I saw the first ripples of a happening so delicate and rare: like the rainbow it only happens in certain special conditions, a sparse shower, gloom with a side of glory, the cement-smoke clouds advance and retreat hazarding a return to storm. That’s what it was like seeing a man cry. Seeing him unburden himself of helpless fate, watching death over his shoulder, facing the floor, and having your hurt multiply with his. It’s a child at the height of an AK-47, out of place and cruel, and heartbreaking to watch. Have you ever seen that? There’s a brutality in bearing witness to it. And you just want to take it away, whatever it is that harmed him, do shameless violence to it, especially if you love him. Unless the source of his hurt is you. I thought that in the moment: what if it’s me? How do I take myself away? But if you’re sure, you don’t go away. You do what you can to wrap him in protective dignity with whatever you can find. Because if you leave him alone he just may do something, what men do: yank the problem out at the root, solve the issue, obsess himself to bodily breakdown to the answer, end the pain. So I used my renewed vitality to hold him hard and give him heat in that cold place. When he squeezed back making me gasp, I knew I’d done the right thing.
+
+There was a stirring within me that, looking back, I knew he felt too.
+
+When we let each other go, I brushed a finger under each his red eyes, to unequivocally display my being there for him, minus the tricks and the games I played before. He'd saved my life after all so I thought I owed him.
+
+“Feel better?”
+
+He nodded and gave a grunt of an acknowledgement.
+
+“They have them?”
+
+“Yeah… I tried to… but…”
+
+“Shade we’ll find them. I'm sure they're alive.”
+
+Shade returned a limp nod. I got close enough to smell the field on him. When youve been in the shit for so long it's as if your nostrils deaden to scents that would have caused you to gag in peaceful times. After awhile it's just part of the background like the vast ocean on any island. 
+
+“It was you wasn't it? Who convinced Scorch to spare his DNA?”
+
+“He's not a monster. Of all of us, he's the most caring. He wouldn't let something, someone who was important to me die.”
+
+That thing air had me in a surly state. “Oh I'm sorry, I don't think I heard that. Let me recap. Did you, the genetically altered war machine Shade, just say I'm important to you?”
+
+There were two huffs of half laughs that he let out.
+
+“I'll take that as a yes.” I pulled myself into him and without even thinking further about it, we were chest to chest, no void between us.
+
+At first he tensed, nearly broke contact.
+
+“W-What are you doing?”
+
+“I should be dead. We both might not see another beautiful island sunrise. I just, want to enjoy feeling like this at least one last time. Forget the war, the battles, and just be here with someone important to me.”
+
+“I… see.”
+
+The first kiss and everything until night fell, was the last time we connected so completely.
+
+
+
+
+
+When I woke up the mouth of the hideaway showed darkness. Insects of the night carried on with buzzing and screeing. Shade lay beside me eyes on the dirt ceiling.
+
+“This used to be an air raid shelter during World War II.”
+
+After he said that, the temporary nature of the last few hours hit me. A biting breeze of mountain air rushed in. He rolled the blanket we were burritoed in tighter when I shivered involuntarily.
+
+He explained everything to me.
+
+The war had entered a new phase of potential destruction.
+
+Both the U.S. and China had already made martyrs of their destroyed naval forces. Nuclear option was in play as a final solution to the Okinawa problem.
+
+But nobody had known about the Japanese secret army. A wild card here. One that could change the entire conflict.
+
+They were apparently engaged in liberation operations to expel hostile occupying forces from the Oki main island. Fighting of the most savage, body-mangling flame thrower variety, not seen since WW2 was ongoing.
+
+“And your brothers?”
+
+“After everything went down, they were captured by the last surviving member of the C-Unit.”
+
+“Who's that?”
+
+“Commander. Father of the C-Unit.”
+
+In the dark, his body hardened. Though it was the first time I heard the name, I guessed there was an entrenched intensity around it. What he told me after that confirmed it.
+
+“If anyone ever tried to rewrite us, or the story of the war, I'd kill them. No matter who it was.”
+
+“I know you're not bluffing.”
+
+We spent the rest of the night lying there in contacted warmth, but far away in our heads. Eventually I fell asleep. That's all I remember.
+
